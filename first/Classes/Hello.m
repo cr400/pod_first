@@ -10,6 +10,6 @@
 
 @implementation Hello
 + (void)helloworld{
-    NSLog(@"helloworld----");
+    NSLog(@"helloworld----gan");
 }
 @end
